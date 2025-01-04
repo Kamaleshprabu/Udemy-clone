@@ -357,7 +357,7 @@
   .recommeded__courses__item,
   .mostpopular__courses__item{
     flex: 1 0 150px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
   }
 
   .recommeded__courses__img,
